@@ -1,0 +1,13 @@
+C:\Users\fernandezale\AppData\Local\Temporary Projects\GeneradorQR\bin\Debug\GeneradorQR.exe.config
+C:\Users\fernandezale\Documents\Visual Studio 2012\Projects\GeneradorQR\GeneradorQR\bin\Debug\GeneradorQR.exe.config
+C:\Users\fernandezale\Documents\Visual Studio 2012\Projects\GeneradorQR\GeneradorQR\obj\Debug\GeneradorQR.csprojResolveAssemblyReference.cache
+C:\Users\fernandezale\Documents\Visual Studio 2012\Projects\GeneradorQR\GeneradorQR\obj\Debug\GeneradorQR.Form1.resources
+C:\Users\fernandezale\Documents\Visual Studio 2012\Projects\GeneradorQR\GeneradorQR\obj\Debug\GeneradorQR.Properties.Resources.resources
+C:\Users\fernandezale\Documents\Visual Studio 2012\Projects\GeneradorQR\GeneradorQR\obj\Debug\GeneradorQR.csproj.GenerateResource.Cache
+C:\Users\fernandezale\Documents\Visual Studio 2012\Projects\GeneradorQR\GeneradorQR\bin\Debug\GeneradorQR.exe
+C:\Users\fernandezale\Documents\Visual Studio 2012\Projects\GeneradorQR\GeneradorQR\bin\Debug\GeneradorQR.pdb
+C:\Users\fernandezale\Documents\Visual Studio 2012\Projects\GeneradorQR\GeneradorQR\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\fernandezale\Documents\Visual Studio 2012\Projects\GeneradorQR\GeneradorQR\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\fernandezale\Documents\Visual Studio 2012\Projects\GeneradorQR\GeneradorQR\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\fernandezale\Documents\Visual Studio 2012\Projects\GeneradorQR\GeneradorQR\obj\Debug\GeneradorQR.exe
+C:\Users\fernandezale\Documents\Visual Studio 2012\Projects\GeneradorQR\GeneradorQR\obj\Debug\GeneradorQR.pdb
